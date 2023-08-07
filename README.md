@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Color Switch*
 
-Submitted by: **Your Name Here**
+Submitted by: **Will Ruff**
 
-**Name of your app** is an app that... [TODO] 
+**Color Switch** is an app that allows the user to press a button and switch the background color to a new random color.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -34,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Will Ruff]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
